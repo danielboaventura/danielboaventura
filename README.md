@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**danielboaventura/danielboaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Daniel Boaventura | Desenvolvedor Web
+🔹 Estudante de Sistemas de Informação na ITE Bauru, apaixonado por desenvolvimento web e sempre em busca de aprendizado.
+🔹 Tenho experiência prática com React.js, Node.js, MySQL e JavaScript, criando projetos como carrinhos de compras dinâmicos e jogos interativos.
+🔹 Meu objetivo é me tornar um desenvolvedor full-stack e colaborar em projetos inovadores.
+🔹 Estou em busca de um estágio na área de desenvolvimento, onde possa aplicar meus conhecimentos e crescer profissionalmente.
 
-Here are some ideas to get you started:
+🚀 Tecnologias: React.js | Node.js | JavaScript | PHP | MySQL | Git | APIs REST
+📌 Confira meus principais projetos:
+🔗 Carrinho de Compras → cart-shopping-pied.vercel.app
+🔗 Jogo da Cobrinha → danielboaventura.github.io/Sanek-Game2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Entre em contato:
+💼 LinkedIn | 🌍 Portfólio
