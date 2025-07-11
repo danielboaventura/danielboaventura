@@ -11,7 +11,7 @@
 **React.js | Node.js | JavaScript | PHP | MySQL | Git | APIs REST**  
 
 📌 **Confira meus principais projetos:**  
-- 🛒 **Carrinho de Compras:** [cart-shopping-pied.vercel.app](https://cart-shopping-pied.vercel.app/)  
+- 🛒 **Carrinho de Compras:** [danielboaventura/cart-shopping/](https://github.com/danielboaventura/cart-shopping/)  
 - 🎮 **Jogo da Cobrinha:** [danielboaventura.github.io/Sanek-Game2](https://danielboaventura.github.io/Sanek-Game2/)  
 
 📫 **Entre em contato:**  
